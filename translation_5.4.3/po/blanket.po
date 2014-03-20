@@ -266,7 +266,7 @@ msgid "usb.screen.charging.y_offset"
 msgstr "8.6"
 
 msgid "usb.screen.header"
-msgstr "USB Drive Mode"
+msgstr "Режим USB накопителя"
 
 msgid "usb.screen.header.fontsize"
 msgstr "12"
@@ -276,8 +276,8 @@ msgstr "0,14.65,258.68,12.07"
 
 msgid "usb.screen.message"
 msgstr ""
-"Если вы хотите продолжать чтение или совершать покупки в Kindle Store во время зарядки через "
-"USB, оставьте кабель подключенным и произведите \"извлечение устройства\" "
+"Чтобы продолжать чтение или совершать покупки в Kindle Store во время зарядки через "
+"USB, оставьте кабель подключенным, но произведите \"извлечение устройства\" "
 "на компьютере."
 
 msgid "usb.screen.message.fontsize"

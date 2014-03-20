@@ -1,2 +1,2 @@
-kindle-pw2-l10n-ru
-==================
+Russian localization for Kindle Paperwhite 1 & 2
+================================================

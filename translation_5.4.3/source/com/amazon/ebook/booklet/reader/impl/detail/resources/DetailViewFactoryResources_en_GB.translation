@@ -1,21 +1,21 @@
-Add To Home	
-Add to Collection	
+Add To Home	Добавить на главный экран
+Add to Collection	Добавить в коллекцию
 Add to FreeTime Library	
-Book Description	
-Buy This Book Now	
-Delete This Book	
-Delete This Document	
-Delete This Letter	
+Book Description	Описание книги
+Buy This Book Now	Купить эту книгу сейчас
+Delete This Book	Удалить книгу
+Delete This Document	Удалить документ
+Delete This Letter	Удалить письмо
 Delete This Notice	
 Delete This Receipt	
 Delete This Sample	
 Edit Kana	
 Edit Pronunciation	
-Go To...	
+Go To...	Перейти...
 Item Description	
-Look Up in Dictionary	
+Look Up in Dictionary	Искать в словаре
 Remove This Sample	
-Remove from Device	
+Remove from Device	Удалить на устройстве
 Search This Book	
 Search This Document	
 Search This Letter	
@@ -23,6 +23,6 @@ Search This Notice
 Search This Receipt	
 Search This Sample	
 Share That Youʼve Finished This Book	
-Title: {0}	
+Title: {0}	Название: {0}
 View Bookmarks	
 View Notes & Marks	

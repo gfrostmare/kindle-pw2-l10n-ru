@@ -1,13 +1,13 @@
-Could not find "{0}".	
-Done	
-Incorrect Password	
-Incorrect password. Please try again.	
-Next	
+Could not find "{0}".	Не найдено "{0}".
+Done	Готово
+Incorrect Password	Неверный пароль
+Incorrect password. Please try again.	Неверный пароль. Попробуйте еще раз.
+Next	Далее
 No more instances of "{0}" found.	
 Opening Page {0} of {1} ...	
 Page {0} of {1}	
 Page {0}	
-Password-Protected	
+Password-Protected	Защищено паролем.
 Previous	
 Search	
 Stop	

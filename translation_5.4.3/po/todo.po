@@ -1,5 +1,5 @@
 msgid "todo.message.checking"
-msgstr "Checking..."
+msgstr "Проверка..."
 
 msgid "todo.message.nonewitems"
-msgstr "No new items"
+msgstr "Ничего нового..."

@@ -3,15 +3,15 @@ Already at furthest read location.
 Beginning	
 Book Description	
 Buy This Book Now	
-Cancel	
-Close	
+Cancel	Отмена
+Close	Закрыть
 Contrast	
-Cover	
+Cover	Обложка
 Darkest	
-Delete Note	
-Delete	
-Edit Note	
-End	
+Delete Note	Удалить заметку
+Delete	Удалить
+Edit Note	Редактировать заметку
+End	Конец
 Enter a location ({0} - {1})	
 Enter a page (1 - {0}) or location ({1} - {2})	
 Enter a page (1 - {0})	
@@ -19,45 +19,45 @@ Enter a page ({0}) or location ({1} - {2})
 Enter a page ({0})	
 Enter a page or location ({1} - {2})	
 Enter a page	
-Enter password: 	
-Fonts	
-Go To	
+Enter password: 	Введите пароль: 
+Fonts	Шрифты
+Go To	Переход
 Go to Page or Location	
-Go to...	
-Highlight	
-Incorrect Password	
-Incorrect password. Please try again.	
+Go to...	Перейти...
+Highlight	Выделить/Цитировать
+Incorrect Password	Неправильный пароль
+Incorrect password. Please try again.	Неправильный пароль. Попробуйте еще раз.
 Lightest	
-Line spacing	
+Line spacing	Межстрочное расстояние
 Loc {0} of {1}	
 Loc {0}	
 Location	
 Lock Rotation	
 Low Memory	
-Margins	
+Margins	Поля
 More Options	
 More	
 Normal	
 Note	
 PDF Display Settings	
-Page 	
+Page 	Страница
 Page or Location	
-Page {0} of {1}	
-Page {0}	
+Page {0} of {1}	Страница {0} из {1}
+Page {0}	Страница {0}
 Password-Protected	
 Publisher Font	
 Retrieving furthest page read...	
-Save	
-Settings	
-Share	
+Save	Сохранить
+Settings	Настройки
+Share	Поделиться
 Shared Notes & Highlights	
-Shop in Kindle Store	
-Submit	
+Shop in Kindle Store	Купить в Kindle Store
+Submit	Отправить
 Sync Results	
 Sync to Furthest Page Read	
 Sync	
-Table of Contents	
-Table of Contents...	
+Table of Contents	Содержание
+Table of Contents...	Содержание...
 There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	
 This PDF is password-protected.	
 To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu, select Reading Options, then Annotations Backup.	

@@ -1,16 +1,16 @@
-Authors starting with:	
-Cancel	
-Cloud and All Devices	
-Device Time	
-Go To	
+Authors starting with:	Авторы, начинающиеся на:
+Cancel	Отмена
+Cloud and All Devices	Облако и все устройства
+Device Time	Время устройства
+Go To	Переход
 Go	
-Hint	
-Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	
+Hint	Подсказка
+Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	Страница номер (1 to {0, choice, 0#1|1#{0,number,integer}}):
 Remove Sample From	
 Remove This Sample	
-Remove	
+Remove	Удалить
 Removing a sample from the Cloud will also remove it from all devices.	
-Select Child	
-Set Automatically	
-This Device	
-Titles starting with:	
+Select Child	Выберите ребенка
+Set Automatically	Настроить автоматически
+This Device	Это устройство
+Titles starting with:	Названия, начинающиеся на:

@@ -1,10 +1,10 @@
-Cancel	
-Close	
+Cancel	Отмена
+Close	Закрыть
 Connection Required	
-Edit	
-Menu	
+Edit	Изменить
+Menu	Меню
 OK	
-Remove	
+Remove	Удалить
 Screen Light	
 Shop in Kindle Store	
 Turn Off Wireless	

@@ -1,12 +1,12 @@
-Cancel	
-Close	
+Cancel	Отмена
+Close	Закрыть
 Connection Required	
-Edit	
+Edit	Изменить
 Lock Rotation	
-Menu	
+Menu	Меню
 OK	
 Register	
-Remove	
+Remove	Удалить
 Shop in Kindle Store	
 This action requires wireless to be turned on.	
 Turn Off Wireless	

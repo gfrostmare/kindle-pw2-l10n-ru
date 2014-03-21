@@ -1,25 +1,25 @@
 <html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB free}{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>	
-Cancel	
-Close	
+Cancel	Отмена
+Close	Закрыть
 Deregister Your Kindle	
 Deregister	
 Deregistering Your Kindle…	
-Device Info	
-Device Name	
-Enter your Amazon account information.	
-First Name	
-Gender	
-Hide Password	
-Login ID	
-Password	
-Personalise your Kindle by giving it a name that appears on the Home screen.	
+Device Info	Информация об устройстве
+Device Name	Имя устройства
+Enter your Amazon account information.	Введите данные вашего аккаунта на Amazon.
+First Name	Имя
+Gender	Пол
+Hide Password	Скрыть пароль
+Login ID	Логин
+Password	Пароль
+Personalise your Kindle by giving it a name that appears on the Home screen.	Укажие имя вашего Kindle, которое появится на главном экране.
 Please visit goodreads.com/settings to unlink your Facebook account from your Goodreads account.	
-Register Your Kindle	
-Register	
-Registering Your Kindle…	
-Registration Failed	
-Registration Help	
-Save	
+Register Your Kindle	Зарегистрируйте ваш Kindle
+Register	Регистрация
+Registering Your Kindle…	Регистрирую ваш Kindle...
+Registration Failed	Неудачная регистрация
+Registration Help	Помощь в регистрации
+Save	Сохранить
 The login ID and password you entered do not match any Amazon accounts on record. Please make sure that you have correctly entered the login ID (e-mail address or phone number) associated with your Amazon account. For further details please contact Kindle Customer Service at www.kindle.com/support.	
 There was an error whilst deregistering your device. Please try again later.	
 There was an error whilst registering your Kindle. Please try again later.	

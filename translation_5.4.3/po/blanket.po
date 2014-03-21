@@ -104,7 +104,7 @@ msgid "ota.update.failed"
 msgstr ""
 "Ошибка обновления.\n"
 "\n"
-"Если Вам нужна помощь - посетите www.kindle.com/support.\n"
+"Если вам нужна помощь - посетите www.kindle.com/support.\n"
 "\n"
 "Чтобы продолжить использование Kindle, пожалуйста, нажмите кнопку питания."
 
@@ -130,7 +130,7 @@ msgid "ota.update.initial"
 msgstr ""
 "Ваш Kindle обновляется. Это может занять несколько минут.\n"
 "\n"
-"НЕ ВЫКЛЮЧАЙТЕ Ваш Kindle в процессе обновления.\n"
+"НЕ ВЫКЛЮЧАЙТЕ Kindle в процессе обновления.\n"
 "\n"
 "После окончания процесса обновления Kindle перезагрузится автоматически."
 
@@ -206,7 +206,7 @@ msgid "shutdown.fontupdate.message.spacing"
 msgstr "2.5"
 
 msgid "shutdown.reboot.message"
-msgstr "Пожалуйста, подождите пока Ваш Kindle загрузится."
+msgstr "Пожалуйста, подождите пока ваш Kindle загрузится."
 
 msgid "shutdown.reboot.message.fontsize"
 msgstr "12"
@@ -281,13 +281,13 @@ msgstr ""
 "на компьютере."
 
 msgid "usb.screen.message.fontsize"
-msgstr "12"
+msgstr "11"
 
 msgid "usb.screen.message.rect"
 msgstr "29.31,165.55,200.05,86.22"
 
 msgid "usb.screen.message.spacing"
-msgstr "2.5"
+msgstr "2.2"
 
 msgid "usb.screen.message_nc"
 msgstr ""
@@ -296,10 +296,10 @@ msgstr ""
 "В данный момент Ваш Kindle не заряжается."
 
 msgid "usb.screen.message_nc.fontsize"
-msgstr "12"
+msgstr "11"
 
 msgid "usb.screen.message_nc.rect"
 msgstr "29.31,165.55,200.05,86.22"
 
 msgid "usb.screen.message_nc.spacing"
-msgstr "2.5"
+msgstr "2.2"

@@ -1,16 +1,16 @@
-Cancel	
-Change Passcode	
-Confirm New Passcode	
-Confirm Passcode	
-Create Passcode	
-Device Passcode	
-Enter Current Passcode	
-Enter New Passcode	
-Enter Passcode	
-Incorrect Passcode	
-Passcode Invalid	
-Passcodes Do Not Match	
-Please enter a valid passcode.	
-Please try again.	
-Turn Off Passcode	
-Your passcode must contain at least {0,number,integer} digits. Please try again.	
+Cancel	Отмена
+Change Passcode	Изменить пароль
+Confirm New Passcode	Подтвердите новый пароль
+Confirm Passcode	Подтвердите пароль
+Create Passcode	Создать пароль
+Device Passcode	Пароль устройства
+Enter Current Passcode	Введите текущий пароль
+Enter New Passcode	Введите новый пароль
+Enter Passcode	Введите пароль
+Incorrect Passcode	Неверный пароль
+Passcode Invalid	Пароль неверен
+Passcodes Do Not Match	Пароли не совпадают
+Please enter a valid passcode.	Пожалуйста, введите правильный пароль.
+Please try again.	Пожалуйста, попробуйте снова.
+Turn Off Passcode	Отключить пароль
+Your passcode must contain at least {0,number,integer} digits. Please try again.	Пароль должен содержать минимум {0,number,integer} цифр. Попробуйте еще раз.

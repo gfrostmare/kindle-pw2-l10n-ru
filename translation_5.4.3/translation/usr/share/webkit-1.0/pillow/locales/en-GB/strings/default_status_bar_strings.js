@@ -1,3 +1,3 @@
-Connected	
-Connecting	
+Connected	Подключен
+Connecting	Подключение
  · 	

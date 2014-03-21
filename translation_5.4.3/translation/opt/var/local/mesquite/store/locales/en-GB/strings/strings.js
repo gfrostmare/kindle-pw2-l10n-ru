@@ -1,1 +1,1 @@
-<br>The Kindle Store is currently unavailable. Try again at a later time.<p>If the problem persists, please contact Kindle Customer Service at www.kindle.com/support.</p>Tap OK to return to the Home screen.	
+<br>Kindle Store временно недоступен, попробуйте позже.<p>Если проблема останется, пожалуйста, обратитесь в Службу Поддержки Kindle www.kindle.com/support.</p>Нажмите OK для возврата на главный экран.	

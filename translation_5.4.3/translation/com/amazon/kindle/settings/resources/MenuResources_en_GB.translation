@@ -3,10 +3,10 @@ Change Password	Изменить пароль
 Device Info	Об этом устройстве
 Legal	Правоваая информация
 No update file is present.	Не найден файл обновлений.
-Reset Device Locked	
-Reset Device	Сброс устройства
+Reset Device Locked	Сброс настроек запрещен
+Reset Device	Сброс настроек
 Restart	Перезагрузка
-This action will remove all downloaded or transferred content from your Kindle, and your settings will not be saved. You will still be able to download items from the Cloud. Do you want to reset your Kindle?	Это действие удалит все содержимое и настройки вашего устройства! После этого возможно будет снова загрузить документы из Облака. Вы хотите выполнить сброс Kindle?
+This action will remove all downloaded or transferred content from your Kindle, and your settings will not be saved. You will still be able to download items from the Cloud. Do you want to reset your Kindle?	Это действие удалит все файлы и настройки на вашем устройстве! Файлы, загруженные в облако через «Send to Kindle», можно будет восстановить на устройство. Вы действительно хотите удалить ваши файлы и настройки?
 Update Your Kindle	Обновление ПО Kindle
 You are about to update the software on your Kindle. Do you wish to continue?	Будет выполнено обновление ПО вашего Kindle. Продолжить ?
 Your battery level is too low to install this update safely. Please charge your Kindle fully and try again.	Низкий уровень заряда батареи. Полностью зарядите ваш Kindle и попробуйте снова.

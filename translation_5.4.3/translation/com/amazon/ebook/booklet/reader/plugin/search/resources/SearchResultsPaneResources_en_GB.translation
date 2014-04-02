@@ -1,8 +1,8 @@
-Go To	
+Go To	Перейти
 Location {0} · Page {1}	
 Location {0}	
-Search Results ({0,number,integer})	
-Search failed.	
-Searching…	
+Search Results ({0,number,integer})	Результаты поиска ({0,number,integer})
+Search failed.	Ошибка поиска.
+Searching…	Поиск...
 Title not yet indexed.	
-{0,number,integer} of {1,number,integer}	
+{0,number,integer} of {1,number,integer}	{0,number,integer} из {1,number,integer}

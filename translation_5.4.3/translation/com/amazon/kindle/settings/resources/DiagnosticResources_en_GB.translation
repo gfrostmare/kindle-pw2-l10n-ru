@@ -1,15 +1,15 @@
-411 Page	
-611 Page	
-711 Page	
-Available Wireless Providers	
+411 Page	Страница 411
+611 Page	Страница 611
+711 Page	Страница 711
+Available Wireless Providers	Доступные сети
 Cancel	Отмена
 Close	Закрыть
-Currently you are connected to: {0}~~Select Switch Automatically to allow your Kindle to automatically choose the best wireless provider (default).	
+Currently you are connected to: {0}~~Select Switch Automatically to allow your Kindle to automatically choose the best wireless provider (default).	В данный момент вы подключены к: {0}~~Выберите "Автоматически", чтобы ваш Kindle автоматически выбирал лучшего провайдера (по-умолчанию).
 Page {0,number,integer} of {1,number,integer}	Страница {0,number,integer} из {1,number,integer}
 Retrieving data…	Получение данных...
-Scanning for available wireless providers. This may take several minutes...	
-Switch automatically (recommended)	
-Switching Wireless Providers	
+Scanning for available wireless providers. This may take several minutes...	Поиск доступных сетей...
+Switch automatically (recommended)	Автоматически (рекомендуется)
+Switching Wireless Providers	Выбор сети
 Tcpdump is not running	Tcpdump не запущен
 Tcpdump is running	Tcpdump запущен
 URL to download file from	URL для скачивания файла

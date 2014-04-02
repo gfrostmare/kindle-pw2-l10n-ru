@@ -1,33 +1,33 @@
-All Notes & Marks ({0,number,integer})	
-All	
-Bookmarks	
-Delete	
-Edit	
-Go To	
-Go to Location	
-Go	
-Highlights	
-Items {0,number,integer} of {1,number,integer}	
-Items {0,number,integer}-{1,number,integer} of {2,number,integer}	
-Note {0}	
-Notes & Marks ({0,number,integer}) ·	
-Notes & Marks	
-Notes	
-Popular Highlights ({0,number,integer})	
-Popular Highlights	
-Public Notes ({0,number,integer})	
-Public Notes from {0}.	
-Public Notes	
-Show	
-Show...	
-View Notes & Marks	
-Your Bookmarks ({0,number,integer})	
-Your Highlights ({0,number,integer})	
-Your Notes & Marks ({0,number,integer})	
-Your Notes ({0,number,integer})	
-Yours	
-{0,number,integer} of {1,number,integer}	
-{0} highlighted this passage.	
-{0} · Page {1} - {2}	
-{0}’s Highlight	
-{0}’s Note	
+All Notes & Marks ({0,number,integer})	Все примечания и пометки ({0,number,integer})
+All	Всего
+Bookmarks	Закладки
+Delete	Удалить
+Edit	Изменить
+Go To	Перейти
+Go to Location	Перейти к Location
+Go	Переход
+Highlights	Цитаты
+Items {0,number,integer} of {1,number,integer}	Элементы {0,number,integer} из {1,number,integer}
+Items {0,number,integer}-{1,number,integer} of {2,number,integer}	Элементы {0,number,integer}-{1,number,integer} из {2,number,integer}
+Note {0}	Примечание {0}
+Notes & Marks ({0,number,integer}) ·	Примечания и пометки ({0,number,integer}) ·
+Notes & Marks	Примечания и пометки
+Notes	Примечания
+Popular Highlights ({0,number,integer})	Популярные цитаты
+Popular Highlights	Популярные цитаты
+Public Notes ({0,number,integer})	Общедоступные примечания {0,number,integer})
+Public Notes from {0}.	Общедоступные примечания от {0}.
+Public Notes	Общедоступные примечания
+Show	Показать
+Show...	Показать...
+View Notes & Marks	Примечания и пометки
+Your Bookmarks ({0,number,integer})	Ваши закладки ({0,number,integer})
+Your Highlights ({0,number,integer})	Ваши цитаты ({0,number,integer})
+Your Notes & Marks ({0,number,integer})	Ваши примечания и пометки ({0,number,integer})
+Your Notes ({0,number,integer})	Ваши примечания ({0,number,integer})
+Yours	Ваши
+{0,number,integer} of {1,number,integer}	{0,number,integer} из {1,number,integer}
+{0} highlighted this passage.	{0} процитировал это выражение.
+{0} · Page {1} - {2}	{0} · Страница {1} - {2}
+{0}’s Highlight	{0} процитировал это.
+{0}’s Note	{0} сделал это примечание.

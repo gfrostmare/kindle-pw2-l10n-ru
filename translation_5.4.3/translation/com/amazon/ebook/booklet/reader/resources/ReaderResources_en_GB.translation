@@ -1,8 +1,8 @@
-Add Note	
+Add Note	Добавить примечание
 Already at furthest read location.	
-Beginning	
-Book Description	
-Buy This Book Now	
+Beginning	Начало
+Book Description	Описание книги
+Buy This Book Now	Купить эту книгу сейчас
 Cancel	Отмена
 Close	Закрыть
 Contrast	
@@ -14,11 +14,11 @@ Edit Note	Редактировать заметку
 End	Конец
 Enter a location ({0} - {1})	
 Enter a page (1 - {0}) or location ({1} - {2})	
-Enter a page (1 - {0})	
+Enter a page (1 - {0})	Введите номер страницы (1 - {0})
 Enter a page ({0}) or location ({1} - {2})	
-Enter a page ({0})	
+Enter a page ({0})	Введите номер страницы ({0})
 Enter a page or location ({1} - {2})	
-Enter a page	
+Enter a page	Введите номер страницы
 Enter password: 	Введите пароль: 
 Fonts	Шрифты
 Go To	Переход
@@ -38,7 +38,7 @@ Margins	Поля
 More Options	
 More	
 Normal	
-Note	
+Note	Примечание
 PDF Display Settings	
 Page 	Страница
 Page or Location	
@@ -50,12 +50,12 @@ Retrieving furthest page read...
 Save	Сохранить
 Settings	Настройки
 Share	Поделиться
-Shared Notes & Highlights	
+Shared Notes & Highlights	Общедоступные примечания и пометки
 Shop in Kindle Store	Купить в Kindle Store
 Submit	Отправить
 Sync Results	
 Sync to Furthest Page Read	
-Sync	
+Sync	Синхронизация
 Table of Contents	Содержание
 Table of Contents...	Содержание...
 There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	
